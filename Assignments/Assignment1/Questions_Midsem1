@@ -1,0 +1,23 @@
+1: What is the difference between a pilot project, and an actual project?
+ANS:  A
+A:  no predetermined time limit specified by marketing people.
+B:  Actual project contains more number of people participating but not in the case of Pilot project
+C:  Pilot Project is a project that has predetermined plan where as not in Actual project
+D:  Pilot project is meant for project that are done for research only but not Actual project
+
+2:  What does a manager look for in a technique before he adopts it?
+ANS:  If he is engaged in an operational rather than an experimental project, he will insist that the technique is thoroughly tested; it must be shown to be reliable and shown to have performance parameters that are suitable. He acts on his own experience. He will adopt what you tell him only to the extent that you can demonstrate it to him.
+
+3: What are the boundarys of Software Engineering Techniques?
+ANS:   1 We may not change our thinking habits.
+	2 We may not change our programming tools.
+	3 We may not change our hardware.
+	4 We may not change our tasks.
+	5 We may not change the organizational set-up in which the work has to be done.
+ these five immutable boundary conditions,
+
+4:  : How big does a project have to be to be a useful pilot project?
+ANS:  It clearly can’t be 500 men for five years; that’s not a pilot project, it’s a project. It clearly isn’t a matter of one man for one year, because this is precisely what we say isn’t good enough. Can we say what kind or size of pilot project, which would be done according to the best principles that computer scientists could devise, would look in some way acceptable to people who are in the really large-scale business, and would stand a chance of being imitated or developed? If we had some answer we might be able to go away and do such a pilot project.
+
+5: “What can computing science get out of software engineering?”
+ANS:   The truth of the matter is that we tend to look with doubt and suspicion at the other side; whichever side of that particular barrier we are. On one side we say “Well, there’s nothing we can get out of computing science: look at all this rubbish they are talking”. Or we stand on the other side and look at the very large programs and we say “Goodness me; what rotten techniques they use and look: they all fail!”
