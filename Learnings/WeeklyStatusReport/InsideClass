@@ -41,3 +41,27 @@ Week5:
  ->> Project Management and its ways of failures or reasons for failure.
 ->> Concept of Cone of Uncertainty and Agile manifesto
 ->> Uses of Code reuse and its advantages.
+
+Week6:
+
+What is Design?
+Defining Design:
+
+   The transition from possible solutions to one specific solution which can be universally accepted everywhere regarding the solution
+Design sholud have this following :
+
+    Creative unique decision making under uncertainty
+A software design expresses solution to the problem in programming  languages independent of terms.
+Design is the outlook of the project or software which people want to make or use
+It helps in understanding the problem statement and helps in communicating with the different modules of the problem solution
+Design is based on Reviews and reviews are based on : 
+
+Desirability and Feasibility
+
+Desirability ->What is to accomplish ?
+            -> How does one interact with it?
+            
+Feasibility ->What is the conceptual core??
+            ->What are its implementation details??
+    
+   
